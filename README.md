@@ -39,8 +39,11 @@ Node server running on port 3000
 
 When the game is functioning appropriately, you will be prompted for each question, have the opportunity to select an answer, and will be given feedback. You will be able to play through the entire deck of cards:
 
-![flash cards example gif]()
+Working Game
+![flashcards](https://user-images.githubusercontent.com/51575613/69385753-5488f900-0cb8-11ea-92a3-201efaa15c2f.gif)
 
+Working Extention of timer
+![flashcards](https://user-images.githubusercontent.com/51575613/69385804-839f6a80-0cb8-11ea-82bd-a0fae5d706a4.gif)
 ---
 
 
